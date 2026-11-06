@@ -1,4 +1,5 @@
-## 111210529陳宏傑
+# week4:git flow , github flow 的用法
+## 資工四 111210529陳宏傑
 ## 專案連結
 ## [母專案](https://github.com/SE-EXAMPLE/git-exmple)
 ## [分支](https://github.com/SE-EXAMPLE/git-exmple/tree/developGitBranch)
